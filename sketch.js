@@ -28,7 +28,7 @@ function setup() {
 	groundSprite.shapeColor=color(255)
 
 	var groundSprite_option={
-		isStatic=false
+		isStatic:false
 	}	
 
 	var packageBody_option={
